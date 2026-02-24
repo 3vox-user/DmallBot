@@ -1,0 +1,13 @@
+{
+  "name": "dap-dmallbot",
+  "version": "1.0.0",
+  "description": "Dmall Bot",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
